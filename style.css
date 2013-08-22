@@ -95,6 +95,7 @@ body {
     width: 2216px;
     height: 2216px;
     box-shadow: 0 0 50px #000;
+    pointer-events:none;
 }
 #menu{
     position: fixed;
