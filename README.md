@@ -21,7 +21,7 @@ This Pokemon Drinking Game is built on [impress.js](https://github.com/bartaz/im
 
 ##The Board
 
-![Pokemon Drinking Game] (wall-old.png "Pokemon Drinking Game")
+![Pokemon Drinking Game] (http://bytebucket.org/smleimberg/pokemon-drinking-game/raw/9f73f2b161b5e3b26e04f8c624999debe81c9eba/wall-old.png "Pokemon Drinking Game")
 
 ##Keyboard shortcuts:
 
@@ -36,5 +36,3 @@ This Pokemon Drinking Game is built on [impress.js](https://github.com/bartaz/im
 ##Notes:
 
 The game does not force players to round robin turns since certain tiles have certain "effects".
-
-##Game Board:
